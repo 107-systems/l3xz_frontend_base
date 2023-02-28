@@ -3,7 +3,6 @@
 =============================
 [![Spell Check status](https://github.com/107-systems/l3xz_frontend_base/actions/workflows/spell-check.yml/badge.svg)](https://github.com/107-systems/l3xz_frontend_base/actions/workflows/spell-check.yml)
 
-Web based frontend for the [L3X-Z hexapod robot](https://github.com/107-systems/l3xz).
 
 <p align="center">
   <a href="https://github.com/107-systems/l3xz"><img src="https://raw.githubusercontent.com/107-systems/.github/main/logo/l3xz-logo-memento-mori-github.png" width="40%"></a>
